@@ -88,12 +88,40 @@ efs-explorer/
 
 ---
 
-## 📸 Screenshots (optional)
+## 📸 Screenshots
 
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/5ef37486-cc68-49f7-a241-25e3ecbb7394" />
-<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/09546be9-55f5-4fb4-987a-d83eaa0d491a" />
-<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/cb6bc281-a9ff-4caf-b295-a41450beb855" />
-<img width="1901" height="959" alt="image" src="https://github.com/user-attachments/assets/3c7316c5-2535-4c51-9926-42b009b8cad9" />
+# Demo with Images and Descriptions
+
+## Figure 1: Overview
+<img width="937" height="968" alt="System Overview" src="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" />
+  
+*This diagram provides an overview of the system layout.*
+
+---
+
+## Figure 2: Workflow
+<img width="932" height="967" alt="Workflow" src="https://github.com/user-attachments/assets/940b29cc-7df4-427b-bec5-f541ce7b7af4" />
+  
+*This image illustrates the workflow and data flow across components.*
+
+---
+
+## Figure 3: Detailed Architecture
+<img width="937" height="971" alt="Detailed Architecture" src="https://github.com/user-attachments/assets/6fd8ee60-21ac-403a-af33-4c01eefaeae1" />
+  
+*This diagram shows the detailed architecture of the system.*
+
+---
+
+## Figure 4: Dashboard
+<img width="933" height="956" alt="Dashboard" src="https://github.com/user-attachments/assets/7ec04b6b-d08e-41d3-8cd6-7f245b5d3a29" />
+  
+*This screenshot displays the main dashboard interface.*
+
+
+
+
+
 
 ---
 
@@ -109,5 +137,5 @@ efs-explorer/
 
 ## 📜 License
 
-This project is for **educational purposes** (IoT Security / Browser Security coursework).  
+This project is for **educational purposes** ( Security / Browser Security coursework).  
 You may use, modify, and extend it freely.
