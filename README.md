@@ -90,78 +90,20 @@ efs-explorer/
 
 ## 📸 Demo with Images and Descriptions
 
-# Demo with Animated Screenshot Boxes
-
-<!-- Figure 1 -->
-<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
-  <!-- Animated border -->
-  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
-        fill="none" stroke="#2F81F7" stroke-width="3">
-    <animate attributeName="stroke-dasharray"
-             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
+## Password Setup Page
+<svg width="650" height="700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pulsing animated border -->
+  <rect x="5" y="5" width="640" height="690" rx="20" ry="20" fill="none" stroke-width="6">
+    <animate attributeName="stroke" values="#2F81F7; #00FFFF; #A020F0; #2F81F7" dur="6s" repeatCount="indefinite"/>
   </rect>
-  <!-- Content -->
-  <foreignObject x="20" y="20" width="960" height="1040">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-      <h3>Password Setup Page</h3>
-      <img src="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" width="600"/>
-      <p><em>Starting page for password setup when no files are present in the environment.</em></p>
-    </div>
-  </foreignObject>
-</svg>
 
----
+  <!-- Screenshot -->
+  <image href="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" x="20" y="20" width="610" height="650" />
 
-<!-- Figure 2 -->
-<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
-        fill="none" stroke="#2F81F7" stroke-width="3">
-    <animate attributeName="stroke-dasharray"
-             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
-  </rect>
-  <foreignObject x="20" y="20" width="960" height="1040">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-      <h3>Unlocked State</h3>
-      <img src="https://github.com/user-attachments/assets/940b29cc-7df4-427b-bec5-f541ce7b7af4" width="600"/>
-      <p><em> Encrypted file system (EFS) in an unlocked state after entering the correct password.</em></p>
-    </div>
-  </foreignObject>
-</svg>
-
----
-
-<!-- Figure 3 -->
-<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
-        fill="none" stroke="#2F81F7" stroke-width="3">
-    <animate attributeName="stroke-dasharray"
-             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
-  </rect>
-  <foreignObject x="20" y="20" width="960" height="1040">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-      <h3>Locked State</h3>
-      <img src="https://github.com/user-attachments/assets/6fd8ee60-21ac-403a-af33-4c01eefaeae1" width="600"/>
-      <p><em>System view in a locked state, either when the lock icon is pressed or the page is refreshed.</em></p>
-    </div>
-  </foreignObject>
-</svg>
-
----
-
-<!-- Figure 4 -->
-<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
-        fill="none" stroke="#2F81F7" stroke-width="3">
-    <animate attributeName="stroke-dasharray"
-             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
-  </rect>
-  <foreignObject x="20" y="20" width="960" height="1040">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
-      <h3>Reset Warning</h3>
-      <img src="https://github.com/user-attachments/assets/7ec04b6b-d08e-41d3-8cd6-7f245b5d3a29" width="600"/>
-      <p><em>Interface displayed when the Reset button is pressed, showing a 5-second timeout warning to the user.</em></p>
-    </div>
-  </foreignObject>
+  <!-- Caption -->
+  <text x="50%" y="685" text-anchor="middle" font-size="18" fill="#555" font-family="Arial">
+    Starting page for password setup when no files are present in the environment.
+  </text>
 </svg>
 
 
