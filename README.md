@@ -90,7 +90,10 @@ efs-explorer/
 
 ## 📸 Screenshots (optional)
 
-*(Add screenshots/gifs of drag-drop, file list, and reset confirmation here)*
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/5ef37486-cc68-49f7-a241-25e3ecbb7394" />
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/09546be9-55f5-4fb4-987a-d83eaa0d491a" />
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/cb6bc281-a9ff-4caf-b295-a41450beb855" />
+<img width="1901" height="959" alt="image" src="https://github.com/user-attachments/assets/3c7316c5-2535-4c51-9926-42b009b8cad9" />
 
 ---
 
