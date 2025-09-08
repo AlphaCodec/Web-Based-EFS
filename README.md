@@ -90,36 +90,79 @@ efs-explorer/
 
 ## 📸 Demo with Images and Descriptions
 
+# Demo with Animated Screenshot Boxes
 
-## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Password+Setup+Page" alt="Password Setup Page" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
-  <img width="937" height="968" alt="Password Setup Page" src="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" />
-  <p><em>Starting page for password setup when no files are present in the environment.</em></p>
-</div>
-
----
-
-## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Unlocked+State" alt="Unlocked State" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
-  <img width="932" height="967" alt="Unlocked State" src="https://github.com/user-attachments/assets/940b29cc-7df4-427b-bec5-f541ce7b7af4" />
-  <p><em>Illustration of the encrypted file system (EFS) in an unlocked state after entering the correct password.</em></p>
-</div>
-
----
-
-## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Locked+State" alt="Locked State" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
-  <img width="937" height="971" alt="Locked State" src="https://github.com/user-attachments/assets/6fd8ee60-21ac-403a-af33-4c01eefaeae1" />
-  <p><em>System view in a locked state, either when the lock icon is pressed or the page is refreshed.</em></p>
-</div>
+<!-- Figure 1 -->
+<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animated border -->
+  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
+        fill="none" stroke="#2F81F7" stroke-width="3">
+    <animate attributeName="stroke-dasharray"
+             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <!-- Content -->
+  <foreignObject x="20" y="20" width="960" height="1040">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+      <h3>Password Setup Page</h3>
+      <img src="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" width="600"/>
+      <p><em>Starting page for password setup when no files are present in the environment.</em></p>
+    </div>
+  </foreignObject>
+</svg>
 
 ---
 
-## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Reset+Warning" alt="Reset Warning" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
-  <img width="933" height="956" alt="Reset Warning" src="https://github.com/user-attachments/assets/7ec04b6b-d08e-41d3-8cd6-7f245b5d3a29" />
-  <p><em>Interface displayed when the Reset button is pressed, showing a 5-second timeout warning to the user.</em></p>
-</div>
+<!-- Figure 2 -->
+<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
+        fill="none" stroke="#2F81F7" stroke-width="3">
+    <animate attributeName="stroke-dasharray"
+             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <foreignObject x="20" y="20" width="960" height="1040">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+      <h3>Unlocked State</h3>
+      <img src="https://github.com/user-attachments/assets/940b29cc-7df4-427b-bec5-f541ce7b7af4" width="600"/>
+      <p><em> Encrypted file system (EFS) in an unlocked state after entering the correct password.</em></p>
+    </div>
+  </foreignObject>
+</svg>
+
+---
+
+<!-- Figure 3 -->
+<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
+        fill="none" stroke="#2F81F7" stroke-width="3">
+    <animate attributeName="stroke-dasharray"
+             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <foreignObject x="20" y="20" width="960" height="1040">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+      <h3>Locked State</h3>
+      <img src="https://github.com/user-attachments/assets/6fd8ee60-21ac-403a-af33-4c01eefaeae1" width="600"/>
+      <p><em>System view in a locked state, either when the lock icon is pressed or the page is refreshed.</em></p>
+    </div>
+  </foreignObject>
+</svg>
+
+---
+
+<!-- Figure 4 -->
+<svg width="100%" height="1080" viewBox="0 0 1000 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="990" height="1070" rx="20" ry="20"
+        fill="none" stroke="#2F81F7" stroke-width="3">
+    <animate attributeName="stroke-dasharray"
+             from="0,4000" to="4000,0" dur="6s" repeatCount="indefinite" />
+  </rect>
+  <foreignObject x="20" y="20" width="960" height="1040">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; flex-direction:column; align-items:center; text-align:center;">
+      <h3>Reset Warning</h3>
+      <img src="https://github.com/user-attachments/assets/7ec04b6b-d08e-41d3-8cd6-7f245b5d3a29" width="600"/>
+      <p><em>Interface displayed when the Reset button is pressed, showing a 5-second timeout warning to the user.</em></p>
+    </div>
+  </foreignObject>
+</svg>
 
 
 ---
@@ -127,8 +170,6 @@ efs-explorer/
 ## 📌 Future Improvements
 
 - Folder support (virtual directories in IndexedDB).  
-- Multi-user / role-based access.  
-- Cloud sync of encrypted blobs.  
 - Session auto-lock after inactivity.  
 - File preview without full download.  
 
