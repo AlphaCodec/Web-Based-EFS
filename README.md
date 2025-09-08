@@ -88,26 +88,50 @@ efs-explorer/
 
 ---
 
-## 📸 Demo with Images and Descriptions
+## 📸 # Screenshots with Descriptions
 
-## Password Setup Page
-<svg width="650" height="700" xmlns="http://www.w3.org/2000/svg">
-  <!-- Pulsing animated border -->
-  <rect x="5" y="5" width="640" height="690" rx="20" ry="20" fill="none" stroke-width="6">
-    <animate attributeName="stroke" values="#2F81F7; #00FFFF; #A020F0; #2F81F7" dur="6s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- Screenshot -->
-  <image href="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" x="20" y="20" width="610" height="650" />
-
-  <!-- Caption -->
-  <text x="50%" y="685" text-anchor="middle" font-size="18" fill="#555" font-family="Arial">
-    Starting page for password setup when no files are present in the environment.
-  </text>
-</svg>
+> 
+> ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Password+Setup+Page" alt="Password Setup Page" />
+> 
+> <img width="937" height="968" alt="Password Setup Page" src="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" />
+> 
+> *Starting page for password setup when no files are present in the environment.*
 
 
+>
 ---
+> ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Unlocked+State" alt="Unlocked State" />
+> 
+> <img width="932" height="967" alt="Unlocked State" src="https://github.com/user-attachments/assets/940b29cc-7df4-427b-bec5-f541ce7b7af4" />
+> 
+> *Encrypted file system (EFS) in an unlocked state after entering the correct password.*
+
+
+>
+---
+> ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Locked+State" alt="Locked State" />
+> 
+> <img width="937" height="971" alt="Locked State" src="https://github.com/user-attachments/assets/6fd8ee60-21ac-403a-af33-4c01eefaeae1" />
+> 
+> *System view in a locked state, either when the lock icon is pressed or the page is refreshed.*
+
+
+> 
+---
+> ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Reset+Warning" alt="Reset Warning" />
+> 
+> <img width="933" height="956" alt="Reset Warning" src="https://github.com/user-attachments/assets/7ec04b6b-d08e-41d3-8cd6-7f245b5d3a29" />
+> 
+> *Interface displayed when the Reset button is pressed, showing a 5-second timeout warning to the user.*
+
+
+>
+---
+>##  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Light+Dark+Theme+support" alt="Light and Dark Theme " />
+> <img width="935" height="967" alt="image" src="https://github.com/user-attachments/assets/738ed7a6-246f-4622-9425-6ee094315747" />
+>
+> *Light and Dark theme Toogle Button Support.*
+
 
 ## 📌 Future Improvements
 
