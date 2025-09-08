@@ -88,12 +88,11 @@ efs-explorer/
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo with Images and Descriptions
 
-# Demo with Images and Descriptions
 
 ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Password+Setup+Page" alt="Password Setup Page" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center;">
+<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
   <img width="937" height="968" alt="Password Setup Page" src="https://github.com/user-attachments/assets/839b9c0a-ec98-475f-bdd9-3accb1beaad8" />
   <p><em>Starting page for password setup when no files are present in the environment.</em></p>
 </div>
@@ -101,7 +100,7 @@ efs-explorer/
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Unlocked+State" alt="Unlocked State" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center;">
+<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
   <img width="932" height="967" alt="Unlocked State" src="https://github.com/user-attachments/assets/940b29cc-7df4-427b-bec5-f541ce7b7af4" />
   <p><em>Illustration of the encrypted file system (EFS) in an unlocked state after entering the correct password.</em></p>
 </div>
@@ -109,7 +108,7 @@ efs-explorer/
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Locked+State" alt="Locked State" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center;">
+<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
   <img width="937" height="971" alt="Locked State" src="https://github.com/user-attachments/assets/6fd8ee60-21ac-403a-af33-4c01eefaeae1" />
   <p><em>System view in a locked state, either when the lock icon is pressed or the page is refreshed.</em></p>
 </div>
@@ -117,10 +116,11 @@ efs-explorer/
 ---
 
 ## <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2F81F7&lines=Reset+Warning" alt="Reset Warning" />
-<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center;">
+<div style="border: 2px solid #2F81F7; border-radius: 10px; padding: 15px; margin-bottom: 20px; text-align: center; box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.1);">
   <img width="933" height="956" alt="Reset Warning" src="https://github.com/user-attachments/assets/7ec04b6b-d08e-41d3-8cd6-7f245b5d3a29" />
   <p><em>Interface displayed when the Reset button is pressed, showing a 5-second timeout warning to the user.</em></p>
 </div>
+
 
 ---
 
